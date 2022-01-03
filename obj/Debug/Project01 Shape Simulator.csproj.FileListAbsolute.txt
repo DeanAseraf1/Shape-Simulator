@@ -1,0 +1,6 @@
+E:\.Net\TypeScript\Project01\Project01 Shape Simulator\bin\TypeScriptHTMLApp1.dll.config
+E:\.Net\TypeScript\Project01\Project01 Shape Simulator\bin\TypeScriptHTMLApp1.dll
+E:\.Net\TypeScript\Project01\Project01 Shape Simulator\bin\TypeScriptHTMLApp1.pdb
+E:\.Net\TypeScript\Project01\Project01 Shape Simulator\obj\Debug\Project01 Shape Simulator.csprojAssemblyReference.cache
+E:\.Net\TypeScript\Project01\Project01 Shape Simulator\obj\Debug\TypeScriptHTMLApp1.dll
+E:\.Net\TypeScript\Project01\Project01 Shape Simulator\obj\Debug\TypeScriptHTMLApp1.pdb
